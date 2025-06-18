@@ -41,6 +41,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "composeTemplate"
+rootProject.name = "AppLauncher"
 include(":app")
  

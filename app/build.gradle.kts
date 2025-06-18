@@ -25,11 +25,11 @@ plugins {
 }
 
 android {
-    namespace = "com.zavedahmad.composeTemplate"
+    namespace = "com.zavedahmad.AppLauncher"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.zavedahmad.composeTemplate"
+        applicationId = "com.zavedahmad.AppLauncher"
         minSdk = 30
         targetSdk = 35
         versionCode = 1
