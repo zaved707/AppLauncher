@@ -25,15 +25,15 @@ plugins {
 }
 
 android {
-    namespace = "com.zavedahmad.AppLauncher"
+    namespace = "com.zavedahmad.applauncher"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.zavedahmad.AppLauncher"
+        applicationId = "com.zavedahmad.applauncher"
         minSdk = 30
         targetSdk = 35
         versionCode = 1
-        versionName = "0.0.3"
+        versionName = "0.0.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
